@@ -1,0 +1,8 @@
+JSON
+{
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "updateUrl": "market://details?id=com.xining.bigpic",
+  "updateContent": "1. 优化放大算法速度\n2. 适配 Android 15 导航栏\n3. 修复已知问题",
+  "forceUpdate": false
+}
