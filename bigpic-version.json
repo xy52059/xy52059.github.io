@@ -19,5 +19,5 @@
     "es": "1. Se agregó soporte para indonesio, vietnamita, tailandés y árabe, cubriendo aún más los mercados del sudeste asiático y Oriente Medio.\n2. Se refinó la adaptación al chino tradicional, con soporte para diferencias regionales de Taiwán y Hong Kong.\n3. Se optimizó la expresión terminológica en portugués para que se ajuste mejor a los hábitos de los usuarios.\n4. Se optimizó la lógica de verificación de actualizaciones, con soporte para mostrar notas de la versión según el idioma actual del usuario.",
     "pt": "1. Adicionado suporte para indonésio, vietnamita, tailandês e árabe, abrangendo ainda mais os mercados do Sudeste Asiático e do Oriente Médio.\n2. Refinada a adaptação do chinês tradicional, com suporte para diferenças regionais de Taiwan e Hong Kong.\n3. Otimizada a expressão terminológica em português para melhor se adequar aos hábitos dos usuários.\n4. Otimizada a lógica de verificação de atualizações, com suporte para exibir notas de versão de acordo com o idioma atual do usuário."
   },
-  "forceUpdate": true
+  "forceUpdate": true 
 }
