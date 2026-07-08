@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.7.2",
+  "versionCode": 10,
+  "versionName": "0.7.3",
   "updateUrl": "market://details?id=com.xining.bigpic",
   "updateContent": {
     "zh": "1.新增了印尼语、越南语、泰语、阿拉伯语支持，进一步覆盖东南亚及中东市场。\n2.细化了繁体中文适配，支持中国台湾和中国香港的地区差异显示。\n3.优化了葡萄牙语的术语表达，使其更符合用户习惯。\n4.优化了更新检查逻辑，支持根据用户当前语言展示对应的更新说明。",
@@ -19,5 +19,5 @@
     "es": "1. Se agregó soporte para indonesio, vietnamita, tailandés y árabe, cubriendo aún más los mercados del sudeste asiático y Oriente Medio.\n2. Se refinó la adaptación al chino tradicional, con soporte para diferencias regionales de Taiwán y Hong Kong.\n3. Se optimizó la expresión terminológica en portugués para que se ajuste mejor a los hábitos de los usuarios.\n4. Se optimizó la lógica de verificación de actualizaciones, con soporte para mostrar notas de la versión según el idioma actual del usuario.",
     "pt": "1. Adicionado suporte para indonésio, vietnamita, tailandês e árabe, abrangendo ainda mais os mercados do Sudeste Asiático e do Oriente Médio.\n2. Refinada a adaptação do chinês tradicional, com suporte para diferenças regionais de Taiwan e Hong Kong.\n3. Otimizada a expressão terminológica em português para melhor se adequar aos hábitos dos usuários.\n4. Otimizada a lógica de verificação de atualizações, com suporte para exibir notas de versão de acordo com o idioma atual do usuário."
   },
-  "forceUpdate": true 
+  "forceUpdate": false 
 }
