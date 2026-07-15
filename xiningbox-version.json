@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
+  "versionCode": 6,
+  "versionName": "0.1.5",
   "updateUrl": "market://details?id=com.xining.xiningbox",
   "updateContent": {
-    "en": "New tools: Date Calculator, Age Calculator, Stopwatch, Pomodoro Timer, Image Color Picker",
-    "zh": "新增工具：日期计算器，年龄计算器，秒表计时器，番茄钟，图片取色"
+    "en": "Fixed home page layout issues",
+    "zh": "修复主页面布局问题",
   },
   "forceUpdate": false
 }
