@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 7,
+  "versionName": "0.1.6",
   "updateUrl": "market://details?id=com.xining.xiningbox",
   "updateContent": {
     "en": "Fixed home page layout issues",
