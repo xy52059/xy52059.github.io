@@ -4,7 +4,7 @@
   "updateUrl": "market://details?id=com.xining.xiningbox",
   "updateContent": {
     "en": "Fixed home page layout issues",
-    "zh": "修复主页面布局问题",
+    "zh": "修复主页面布局问题"
   },
   "forceUpdate": false
 }
