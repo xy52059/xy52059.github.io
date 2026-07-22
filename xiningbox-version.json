@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
+  "versionCode": 9,
+  "versionName": "0.1.8",
   "updateUrl": "market://details?id=com.xining.xiningbox",
   "updateContent": {
     "en": "1. New tools: Image Background Remover, Safe Period Calculator, Markdown to HTML, Palette Generator, Color Picker, Color Contrast Checker, Color Scheme Card\n2. New features: Bottom Navigation Bar, Favorites",
