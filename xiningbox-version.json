@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 8,
+  "versionName": "0.1.7",
   "updateUrl": "market://details?id=com.xining.xiningbox",
   "updateContent": {
-    "en": "Fixed home page layout issues",
-    "zh": "修复主页面布局问题",
+    "en": "1. New tools: Image Background Remover, Safe Period Calculator, Markdown to HTML, Palette Generator, Color Picker, Color Contrast Checker, Color Scheme Card\n2. New features: Bottom Navigation Bar, Favorites",
+    "zh": "1. 新工具：图片去背景，安全期计算，Markdown 转 HTML，调色板生成器，颜色选择器，颜色对比度检测，配色卡\n2. 新功能：底部导航栏，收藏功能"
   },
   "forceUpdate": false
 }
