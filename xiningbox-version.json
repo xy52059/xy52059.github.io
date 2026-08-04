@@ -1,10 +1,25 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.8",
+  "versionCode": 10,
+  "versionName": "0.1.9",
   "updateUrl": "market://details?id=com.xining.xiningbox",
   "updateContent": {
-    "en": "1. New tools: Image Background Remover, Safe Period Calculator, Markdown to HTML, Palette Generator, Color Picker, Color Contrast Checker, Color Scheme Card\n2. New features: Bottom Navigation Bar, Favorites",
-    "zh": "1. 新工具：图片去背景，安全期计算，Markdown 转 HTML，调色板生成器，颜色选择器，颜色对比度检测，配色卡\n2. 新功能：底部导航栏，收藏功能"
+    "zh": "1. 新增 12 个页面：BMI/BFR/BMR/WHR、周数、倒计时、折扣、子女身高/血型、宽高比、设备信息等。\n2. 新增登录功能。\n3. 优化部分页面。",
+    "zh-TW": "1. 新增 12 個頁面：BMI/BFR/BMR/WHR、週數、倒數計時、折扣、子女身高/血型、寬高比、裝置資訊等。\n2. 新增登入功能。\n3. 最佳化部分頁面。",
+    "zh-HK": "1. 新增 12 個頁面：BMI/BFR/BMR/WHR、週數、倒數計時、折扣、子女身高/血型、寬高比、裝置資訊等。\n2. 新增登入功能。\n3. 最佳化部分頁面。",
+    "en": "1. Added 12 new pages: BMI/BFR/BMR/WHR, Week Number, Countdown, Discount, Child Height/Blood Type, Aspect Ratio, Device Info, etc.\n2. Added login feature.\n3. Optimized some pages.",
+    "ja": "1. 新しいページを 12 個追加：BMI/BFR/BMR/WHR、週数、カウントダウン、割引、子供の身長/血液型、アスペクト比、端末情報など。\n2. ログイン機能を追加。\n3. 一部のページを最適化。",
+    "ko": "1. 새 페이지 12개 추가: BMI/BFR/BMR/WHR, 주차, 카운트다운, 할인, 자녀 키/혈액형, 화면 비율, 기기 정보 등.\n2. 로그인 기능 추가.\n3. 일부 페이지 최적화.",
+    "th": "1. เพิ่ม 12 หน้าใหม่: BMI/BFR/BMR/WHR, สัปดาห์, นับถอยหลัง, ส่วนลด, ส่วนสูง/กรุ๊ปเลือดลูก, อัตราส่วนภาพ, ข้อมูลอุปกรณ์ ฯลฯ\n2. เพิ่มฟังก์ชันเข้าสู่ระบบ\n3. ปรับปรุงบางหน้า",
+    "vi": "1. Thêm 12 trang mới: BMI/BFR/BMR/WHR, Số tuần, Đếm ngược, Giảm giá, Chiều cao/Nhóm máu của con, Tỷ lệ khung hình, Thông tin thiết bị, v.v.\n2. Thêm chức năng đăng nhập.\n3. Tối ưu một số trang.",
+    "id": "1. Menambahkan 12 halaman baru: BMI/BFR/BMR/WHR, Nomor Minggu, Hitung Mundur, Diskon, Tinggi/Golongan Darah Anak, Rasio Aspek, Info Perangkat, dll.\n2. Menambahkan fitur login.\n3. Mengoptimalkan beberapa halaman.",
+    "ar": "1. إضافة 12 صفحة جديدة: BMI/BFR/BMR/WHR، رقم الأسبوع، العد التنازلي، الخصم، طول/فصيلة دم الطفل، نسبة العرض إلى الارتفاع، معلومات الجهاز، إلخ.\n2. إضافة وظيفة تسجيل الدخول.\n3. تحسين بعض الصفحات.",
+    "ru": "1. Добавлено 12 новых страниц: BMI/BFR/BMR/WHR, номер недели, обратный отсчёт, скидка, рост/группа крови ребёнка, соотношение сторон, информация об устройстве и т.д.\n2. Добавлена функция входа в систему.\n3. Оптимизированы некоторые страницы.",
+    "de": "1. 12 neue Seiten hinzugefügt: BMI/BFR/BMR/WHR, Wochennummer, Countdown, Rabatt, Kindergröße/Blutgruppe, Seitenverhältnis, Geräteinfo usw.\n2. Anmeldefunktion hinzugefügt.\n3. Einige Seiten optimiert.",
+    "fr": "1. 12 nouvelles pages ajoutées : IMC/BFR/BMR/WHR, numéro de semaine, compte à rebours, remise, taille/groupe sanguin de l'enfant, rapport hauteur/largeur, informations sur l'appareil, etc.\n2. Fonction de connexion ajoutée.\n3. Optimisation de certaines pages.",
+    "es": "1. Se agregaron 12 páginas nuevas: IMC/BFR/BMR/WHR, número de semana, cuenta regresiva, descuento, altura/grupo sanguíneo del niño, relación de aspecto, información del dispositivo, etc.\n2. Se agregó la función de inicio de sesión.\n3. Se optimizaron algunas páginas.",
+    "hi": "1. 12 नए पेज जोड़े गए: BMI/BFR/BMR/WHR, सप्ताह संख्या, काउंटडाउन, छूट, बच्चे की ऊंचाई/रक्त समूह, पहलू अनुपात, डिवाइस जानकारी आदि।\n2. लॉगिन सुविधा जोड़ी गई।\n3. कुछ पेज अनुकूलित किए गए।",
+    "tr": "1. 12 yeni sayfa eklendi: BMI/BFR/BMR/WHR, hafta numarası, geri sayım, indirim, çocuk boyu/kan grubu, en-boy oranı, cihaz bilgisi vb.\n2. Giriş özelliği eklendi.\n3. Bazı sayfalar optimize edildi.",
+    "pt": "1. Adicionadas 12 novas páginas: IMC/BFR/BMR/WHR, número da semana, contagem regressiva, desconto, altura/tipo sanguíneo da criança, proporção de aspecto, informações do dispositivo, etc.\n2. Adicionada função de login.\n3. Algumas páginas otimizadas."
   },
   "forceUpdate": false
 }
