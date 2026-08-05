@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>账号及数据删除申请 - SuperTools</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
+        h1 { color: #1a73e8; }
+        .box { background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #1a73e8; margin: 20px 0; }
+        #lang-zh, #lang-en { display: none; }
+    </style>
+</head>
+<body>
+    <!-- 中文版 -->
+    <div id="lang-zh">
+        <h1>账号及相关数据删除申请</h1>
+        <p>如果您希望删除在 <strong>SuperTools</strong> 应用中创建的账号及相关个人数据，您可以通过以下方式提交申请：</p>
+
+        <div class="box">
+            <h3>发送邮件申请</h3>
+            <p>请使用您注册该账号时使用的邮箱，发送邮件至：<strong>xy872400@gmail.com</strong></p>
+            <p><strong>邮件主题：</strong>申请删除 SuperTools 账号及数据</p>
+            <p><strong>邮件内容建议包含：</strong>您的用户 ID 或注册邮箱。</p>
+        </div>
+
+        <h3>数据处理说明</h3>
+        <ul>
+            <li><strong>将被永久删除的数据：</strong>您的账号、关联的个人资料、个人存储记录及历史数据。</li>
+            <li><strong>处理时间：</strong>我们在收到申请后的 <strong>7 个工作日内</strong> 完成数据清除并回复确认邮件。</li>
+        </ul>
+    </div>
+
+    <!-- English version -->
+    <div id="lang-en">
+        <h1>Account and Associated Data Deletion Request</h1>
+        <p>If you wish to delete the account you created in the <strong>SuperTools</strong> app and its associated personal data, you can submit a request through the following method:</p>
+
+        <div class="box">
+            <h3>Submit a Request by Email</h3>
+            <p>Please use the email address you registered with, and send an email to: <strong>xy872400@gmail.com</strong></p>
+            <p><strong>Email Subject:</strong> Request to Delete SuperTools Account and Data</p>
+            <p><strong>Suggested email content:</strong> Your User ID or registered email address.</p>
+        </div>
+
+        <h3>Data Processing Notes</h3>
+        <ul>
+            <li><strong>Data that will be permanently deleted:</strong> Your account, associated profile, personal storage records, and historical data.</li>
+            <li><strong>Processing time:</strong> We will complete the data deletion and reply with a confirmation email within <strong>7 business days</strong> of receiving your request.</li>
+        </ul>
+    </div>
+
+    <script>
+        // 获取浏览器首选语言（例如 "zh-CN", "en-US", "fr" 等）
+        const userLang = (navigator.language || navigator.userLanguage).toLowerCase();
+        const isZh = userLang.startsWith('zh');
+
+        // head 适配：<html lang> 和 <title>
+        document.documentElement.lang = isZh ? 'zh-CN' : 'en';
+        document.title = isZh ? '账号及数据删除申请 - SuperTools' : 'Account & Data Deletion Request - SuperTools';
+
+        // body 适配：根据语言显示对应区块
+        document.getElementById(isZh ? 'lang-zh' : 'lang-en').style.display = 'block';
+    </script>
+</body>
+</html>
